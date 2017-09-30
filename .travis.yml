@@ -1,0 +1,7 @@
+language: swift
+os: osx
+xcode_project: Hello.xcodeproj
+xcode_scheme: Hello
+
+
+
